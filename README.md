@@ -5,7 +5,6 @@ This project automates the scenario where users from the city FanCode are checke
 ## Setup Instructions
 ### Prerequisites
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 Java JDK installed on your machine
